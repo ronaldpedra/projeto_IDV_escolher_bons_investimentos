@@ -16,7 +16,7 @@ b. Caso não possua o venv instalado
 ```
 pip install venv
 ```
-   c. Cria o ambiente virtual
+   c. Crie o ambiente virtual
 ```
 python -m venv <nome do ambiente>
 ```
